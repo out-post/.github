@@ -11,8 +11,8 @@ Sentinel Solutions (a.k.a. Outpost) is a freelance software development organiza
 
 ### Are our products free to use?
 
-We don't plan on offering paid subscriptions for Sentinel. Sentinel will always be free to use, and the Bodyguard Edition will always be open-source to your liking.
+We don't plan on offering subscriptions for Sentinel, or use it for monetary gain. Sentinel will always be free to use, and the Bodyguard Edition will always be open-source to your liking.
 
 ### Licensing
 
-Sentinel is licensed under the Sentinel License.
+Sentinel is licensed under the MIT License
